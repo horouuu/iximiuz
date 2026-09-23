@@ -4,7 +4,7 @@ All **highly** familiar topics, but I hadn't touched a raw command line in forev
 ## [Easy] Call an HTTP API with curl: Reading Resources
 ![http-get-easy completion](./http-get-easy.png)
 ### Comments
-Not much to say here. Pretty familiar stuff on an unfamiliar platform. \
+Not much to say here. Pretty familiar stuff on an unfamiliar platform.
 ### Activities
 - Usage of cURL to access a toy API.
 - Using the `-H` flag to access request headers.
