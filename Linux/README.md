@@ -7,7 +7,7 @@ In all seriousness, despite using Linux-based systems \
 for development/networking/cybersec-related things, \
 I feel like there's always something new to learn with this OS.
 
-## [Easy] Limit CPU and Memory Usage of a Linux Process
+## [Easy] Limit CPU and Memory Usage of a Linux Process (24/09/26)
 <img src="./cgroups-easy.png" width="400" alt="cgroups-easy completion">
 
 ### Comments

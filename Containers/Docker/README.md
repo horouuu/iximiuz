@@ -2,7 +2,7 @@
 Container challenges related to Docker.
 Thought I was familiar, but man did I have a lot to learn.
 
-# [Easy] Build and Publish a Container Image With Docker
+# [Easy] Build and Publish a Container Image With Docker (24/09/26)
 <img src="./docker-registry-easy.png" width="400" alt="docker-registry-easy completion">
 
 ### Comments
